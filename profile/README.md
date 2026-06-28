@@ -4,8 +4,6 @@
 
 DX Advisory is an independent boutique advisory firm for CFO, bankability, tax/accounting, legal DD coordination, M&A, capital raising, and workflow automation.
 
-This GitHub organization is being migrated from legacy NHATGIA branding to DX_ADVISORY. Legacy repository URLs may still show the old organization slug until the GitHub organization rename is completed.
-
 ## Client Context Rule
 
 Phuoc Thanh Group, Nhat Gia, Nhat Tam, Ngoc Long, Tuyen Phong, and other CTY folders are client/deal/entity references only. They are not the principal company.
