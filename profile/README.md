@@ -1,64 +1,28 @@
-# NHATGIA
+# DX_ADVISORY
 
-## AI CFO & Investment Advisory
+## Investment & Corporate Finance Advisory
 
-NHATGIA is building AI-assisted CFO and investment advisory workflows for founders, investors, project owners, operators, and advisory teams.
+DX Advisory is an independent boutique advisory firm for CFO, bankability, tax/accounting, legal DD coordination, M&A, capital raising, and workflow automation.
 
-We focus on turning scattered inputs into structured review outputs that separate:
+This GitHub organization is being migrated from legacy NHATGIA branding to DX_ADVISORY. Legacy repository URLs may still show the old organization slug until the GitHub organization rename is completed.
 
-- FACT
-- ASSUMPTION
-- RISK
-- MISSING ITEMS
-- CONDITIONS
-- NEXT ACTIONS
+## Client Context Rule
 
-## What We Help With
-
-- Financial statement review
-- Project FS modeling
-- Investment analysis
-- M&A screening and support
-- Business performance review
-- Department workflow automation
-- Evidence-first project review systems
+Phuoc Thanh Group, Nhat Gia, Nhat Tam, Ngoc Long, Tuyen Phong, and other CTY folders are client/deal/entity references only. They are not the principal company.
 
 ## Workflow Areas
 
 | Area | Public Description |
 |---|---|
-| CFO Review | Review notes, model checks, and decision-ready summaries |
-| Project FS Modeling | Structured assumptions, scenario review, and output discipline |
-| Investment Analysis | Fact, assumption, risk, missing item, and condition separation |
-| M&A Screening | Early-stage screening, diligence request structure, and transaction readiness |
+| CFO Review | Financial statement review, model checks, and decision-ready summaries |
+| Bankability | Debt readiness, lender conditions, covenant and collateral review support |
+| M&A / Capital Raising | Screening, diligence request structure, IC memo support, and transaction readiness |
+| Legal DD Coordination | Evidence-linked issue spotting, CP checklists, and lawyer question lists |
 | Data Stewardship | Missing item tracking, owner responsibility, and review status |
-| Management Reporting | Clear outputs for owners, operators, and review teams |
-
-## Free Initial Consultation
-
-We are open to a free initial consultation for suitable CFO review, project FS modeling, investment analysis, M&A screening, and workflow automation problems.
-
-The first conversation is designed to:
-
-- understand the problem type
-- identify missing information
-- suggest a safe first review structure
-- clarify whether a deeper private engagement is useful
+| Workflow Automation | Controlled automation for advisory operations and reporting |
 
 ## Public Safety Rule
 
-Please do not share private records, client names, organization names, private figures, access material, or private attachments in public GitHub issues or discussions.
+Do not share private records, client names, organization names, private figures, access material, or private attachments in public GitHub issues or discussions.
 
-For public inquiries, describe only:
-
-- problem type
-- desired output
-- current workflow pain
-- kind of support needed
-
-## Public Feedback Repo
-
-Start here:
-
-<https://github.com/PhucAnAI/project-review-feedback-pack>
-
+Public inquiries should describe only the problem type, desired output, current workflow pain, and kind of support needed.
